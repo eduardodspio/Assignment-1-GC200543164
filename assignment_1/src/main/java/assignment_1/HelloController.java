@@ -17,21 +17,21 @@ public class HelloController {
 
     @FXML
     private void initialize() {
-        // Initialize the TableView, load tasks, etc.
+
     }
 
     @FXML
     private void onAddTask() {
-        // Add task logic
+
     }
 
     @FXML
     private void onUpdateTask() {
-        // Update task logic
+
     }
 
     @FXML
     private void onDeleteTask() {
-        // Delete task logic
+
     }
 }
